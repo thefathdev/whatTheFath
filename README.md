@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @whatTheFath
-- 👀 I’m interested in Web Programming
-- 🌱 I’m currently learning Computer Science
-- 💞️ I’m looking to collaborate on Web App Projects
+- 👀 I’m interested in Front-end Development
+- 🌱 I’m currently learning Front-end Development
+- 💞️ I’m looking to collaborate on Front-end Projects
 - 📫 How to reach me 
 
 <!---
